@@ -1,0 +1,57 @@
+J I Z E R S K A    5 0   -   V Y S L E D K O V A   L I S T I N A
+-----------------------------------------------------------------------
+poradi  start. cislo   prijmeni           jmeno             stat   rok     cas       ztrata
+    1.         22   Persson          Emil             SWE    1995   2:02:27   0:00:00
+    2.         17   Gjerdalen        Tord Asle        NOR    1983   2:02:28   0:00:01
+    3.         48   Vokuev           Ermil            RUS    1992   2:02:28   0:00:01
+    4.         16   Eliassen         Petter           NOR    1985   2:02:29   0:00:02
+    5.         53   Vylegzhanin      Maxim            RUS    1982   2:02:29   0:00:02
+    6.         23   Kardin           Oskar            SWE    1992   2:02:38   0:00:11
+    7.         18   Pedersen         Morten Eide      NOR    1987   2:03:34   0:01:07
+    8.         19   Hoelgaard        Stian            NOR    1991   2:03:34   0:01:07
+    9.         26   Thyli            Vetle            NOR    1989   2:03:34   0:01:07
+   10.         27   Novak            Max              SWE    1996   2:03:34   0:01:07
+   11.         57   Grebenko         Alexander        RUS    1994   2:03:35   0:01:08
+   12.         36   Nilsson          Klas             SWE    1986   2:04:21   0:01:54
+   13.         49   Ekloef           Johannes         SWE    1995   2:04:22   0:01:55
+   14.         60   Karlsson         Anton            SWE    1990   2:05:21   0:02:54
+   15.         21   Fjeld            Oeyvind Moen     NOR    1988   2:05:38   0:03:11
+   16.         33   Jeannerod        Alexis           FRA    1991   2:05:38   0:03:11
+   17.         32   Aukland          Anders           NOR    1972   2:06:19   0:03:52
+   18.         83   Koskela          Niko             FIN    1990   2:06:19   0:03:52
+   19.         37   Pliska           Jiri             CZE    1981   2:06:20   0:03:53
+   20.         65   Paus             Herman           NOR    2000   2:06:20   0:03:53
+   21.         85   Bagrashov        Dmitriy          RUS    1995   2:06:26   0:03:59
+   22.         25   Johansson        Marcus           SWE    1990   2:07:53   0:05:26
+   23.         40   Srail            Jan              CZE    1990   2:07:53   0:05:26
+   24.         24   Thele            Joar Andreas     NOR    1993   2:07:54   0:05:27
+   25.         29   Holmberg         Andreas          RUS    1992   2:07:57   0:05:30
+   26.         42   Poirrier         Bastien          FRA    1988   2:07:57   0:05:30
+   27.         51   Dvoskin          Alexey           RUS    1983   2:07:57   0:05:30
+   28.         34   Rezac            Stanislav        CZE    1973   2:08:01   0:05:34
+   29.         44   Sedlacek         Vaclav           CZE    1986   2:08:02   0:05:35
+   30.         47   Stocek           Fabian           CZE    1994   2:08:02   0:05:35
+   31.         38   Niemi-Impola     Bob              SWE    1992   2:08:06   0:05:39
+   32.         76   Leray            Matis            FRA    1999   2:08:12   0:05:45
+   33.         31   Vesterheim       Magnus           NOR    1994   2:08:44   0:06:17
+   34.         50   Brigadoi         Mauro            ITA    1992   2:08:44   0:06:17
+   35.         66   Ferrari          Francesco        ITA    1994   2:08:45   0:06:18
+   36.         45   Persson          Nils             SWE    1993   2:09:41   0:07:14
+   37.         80   Combey           Paul             FRA    1997   2:12:31   0:10:04
+   38.         61   Busin            Lorenzo          ITA    1996   2:12:48   0:10:21
+   39.         46   Skinstad         Petter Soleng    NOR    1989   2:13:43   0:11:16
+   40.         62   Oedegaarden      Thomas           NOR    1998   2:13:43   0:11:16
+   41.         67   Du               Pasquier Arnaud  FRA    1992   2:13:43   0:11:16
+   42.         59   Deswaziere       Theo             FRA    1996   2:13:44   0:11:17
+   43.         70   Maenpaa          Hannes           FIN    1996   2:13:44   0:11:17
+   44.         89   Rohde            Florian          GER    1984   2:13:44   0:11:17
+   45.         93   Matous           Adam             CZE    1998   2:13:44   0:11:17
+   46.         39   Jespersen        Chris Andre      NOR    1983   2:13:46   0:11:19
+   47.         77   Winker           Christian        GER    1996   2:16:09   0:13:42
+   48.         94   Tarantola        Antoine          FRA    1998   2:17:09   0:14:42
+   49.        105   Bestak           Jonas            CZE    1995   2:17:11   0:14:44
+   50.         84   Mich             Riccardo         ITA    1991   2:17:29   0:15:02
+   51.         68   Sedlacek         Michal           CZE    1975   2:17:30   0:15:03
+   52.         75   Mich             Stefano          ITA    1993   2:17:50   0:15:23
+   53.         55   Goebel           Florian          GER    1972   2:17:54   0:15:27
+   54.         58   Frost            Robin            GER    1993   2:18:21   0:15:54

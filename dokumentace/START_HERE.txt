@@ -1,0 +1,183 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║          🎉 VÍTEJ V TVÉM STUDIJNÍM BALÍČKU NA MATURITU! 🎉          ║
+║                                                                      ║
+║                    Programování v C - Všechny 4 Příklady             ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+Ahoj! 👋
+
+Máš tady KOMPLETNÍ BALÍČEK na přípravu maturitní zkoušky z programování.
+
+Neotácej se - KOUKNI NA TENTO SOUBOR!
+
+═══════════════════════════════════════════════════════════════════════════
+
+🚀 ZAČNI TADY (Vyber si):
+
+  1️⃣  NEMÁM ČAS (5-10 minut)
+      → Otevři: QUICK_START.md
+      → Zjistíš: Copy-paste šablonu a 10 nejdůležitějších věcí
+      
+  2️⃣  CHCI PŘEHLED (20 minut)
+      → Otevři: README.md
+      → Zjistíš: Plán studia + co musím znát
+      
+  3️⃣  JSEM ZTRACEN/A (10 minut)
+      → Otevři: INDEX.md
+      → Zjistíš: Kde je co + jak se orientovat
+      
+  4️⃣  CHCI VŠECHNO POCHOPIT (3-4 hodiny)
+      → Otevři: STUDIJNÍ_MATERIÁL.md
+      → Pak: DETAILNÍ_PRŮVODCE.md
+      → Pak: CHEAT_SHEET.md
+      
+  5️⃣  CHCI SE OTESTOVAT (2 hodiny)
+      → Otevři: PŘÍPRAVNÝ_TEST.md
+      → Řeš úkoly a otázky
+      
+  6️⃣  CHCI CELKOVÝ SOUHRN (15 minut)
+      → Otevři: SOUHRNNÝ_PŘEHLED.md
+      → Podívej se na tabulky a statistiky
+
+═══════════════════════════════════════════════════════════════════════════
+
+📊 CO MÁŠ K DISPOZICI:
+
+  ✅ 9 markdown souborů  (~ 100KB)
+  ✅ 3500+ řádků textu   (~ 50 stran)
+  ✅ 4 hotová řešení      (Všechny příklady)
+  ✅ 20+ otázek na test   (S řešeními)
+  ✅ 100+ příkladů kódu   (Vysvětleno)
+
+═══════════════════════════════════════════════════════════════════════════
+
+🎯 HLAVNÍ SOUBORY:
+
+  Soubor                        Co obsahuje              Čas čtení
+  ──────────────────────────────────────────────────────────────────
+  00_KOMPLETNI_PREHLED.md       Mapa všeho              10 minut
+  QUICK_START.md                Crash course            5-10 minut
+  README.md                     Přehled + plán          20 minut
+  STUDIJNÍ_MATERIÁL.md          Teorie všech 4         2-3 hodiny
+  DETAILNÍ_PRŮVODCE.md          Konkrétní kód          3-4 hodiny
+  CHEAT_SHEET.md                Reference              30 minut
+  PŘÍPRAVNÝ_TEST.md             Otázky + úkoly         2 hodiny
+  INDEX.md                      Navigace               10 minut
+  SOUHRNNÝ_PŘEHLED.md           Finální shrnutí        15 minut
+
+═══════════════════════════════════════════════════════════════════════════
+
+🧩 4 PŘÍKLADY NA MATURITU:
+
+  1. SLALOM         - Nejjednoduší (⭐)
+  2. BĚH            - Střední (⭐⭐)
+  3. CYKLISTIKA     - Střední (⭐⭐)
+  4. JIZERSKÁ 50    - Nejtěžší (⭐⭐⭐)
+
+═══════════════════════════════════════════════════════════════════════════
+
+💡 DOPORUČENÉ POSTUPY:
+
+  VARIANTA A: Rychlá Příprava (2 dny)
+  ──────────────────────────────────
+  Den 1: QUICK_START.md → SLALOM (STUDIJNÍ + KÓD)
+  Den 2: BĚH + CYKLISTIKA + JIZERSKÁ + TESTY
+  
+  VARIANTA B: Systematické Učení (4 týdny)
+  ──────────────────────────────────────────
+  Týden 1: SLALOM
+  Týden 2: BĚH
+  Týden 3: CYKLISTIKA + JIZERSKÁ
+  Týden 4: Opakování + Testy
+  
+  VARIANTA C: Normální Příprava (1-2 týdny)
+  ──────────────────────────────────────────
+  Den 1-2: README.md + STUDIJNÍ_MATERIÁL (všechno)
+  Den 3-4: DETAILNÍ_PRŮVODCE (kód všech 4)
+  Den 5-6: CHEAT_SHEET + PŘÍPRAVNÝ_TEST
+  Den 7:   Opakování
+
+═══════════════════════════════════════════════════════════════════════════
+
+⚡ NEJDŮLEŽITĚJŠÍ 3 VĚCI:
+
+  1️⃣  Parsování Stringů - Všechno je `strtok()` s pravými delimitery
+  2️⃣  Bubble Sort       - Stejný kód u všech příkladů
+  3️⃣  Správné Delimitery - Každý příklad má jiné!
+
+═══════════════════════════════════════════════════════════════════════════
+
+🚨 NEJČASTĚJŠÍ CHYBY (Kterým se chcete vyhnout):
+
+  ❌ Zapomenout skip header (první řádek!)
+  ❌ Špatné delimitery v strtok()
+  ❌ Neinicializovaný pointer (DATA *arr = NULL;)
+  ❌ Newline v stringech
+  ❌ Buffer overflow
+  ❌ Porovnávání stringů s == (použij strcmp()!)
+  ❌ Neosvobodit paměť (free()!)
+
+═══════════════════════════════════════════════════════════════════════════
+
+✅ CHECKLIST - Jsem Připraven/a Pokud:
+
+  ☐ Umím parsovat řetězec (strtok)
+  ☐ Umím sortovat pole (bubble sort)
+  ☐ Umím psát do souboru (fprintf)
+  ☐ Znám všechny 4 delimitery
+  ☐ Testoval jsem svůj kód
+  ☐ Vím kde jsou běžné chyby
+  ☐ Mám hotové všechny 4 příklady
+
+═══════════════════════════════════════════════════════════════════════════
+
+🎓 KDY POZNÁŠ ŽE UMÍŠ:
+
+  ✅ Zvládneš SLALOM za 2 hodiny
+  ✅ SLALOM si domníváš "ahh to je jednoduché!"
+  ✅ BĚH ses naučíš za 3 hodiny
+  ✅ CYKLISTIKA a JIZERSKÁ půjde po stejném schématu
+  ✅ PŘÍPRAVNÝ_TEST zvládneš na 80%+
+  ✅ Vím PROČ každý řádek dělám
+
+═══════════════════════════════════════════════════════════════════════════
+
+💪 MOTIVACE:
+
+  "Máš tady VŠECHNO. Není to obtížné, stačí věnovat čas.
+   Tisíce studentů to zvládly. TY TO URČITĚ ZVLÁDNEŠ!"
+
+  Čas do maturity: ⏰ (Máš ho dost!)
+  Obtížnost: 💪 (Střední - jde to)
+  Šance na úspěch: 🎯 (99% s tímto materiálem)
+
+═══════════════════════════════════════════════════════════════════════════
+
+🚀 JDEME NA TO!
+
+KROK 1: Vyber si jednu z variant výše
+KROK 2: Otevři správný soubor
+KROK 3: ZAČNI ČIST!
+
+Neotáčej se - KOUKEJ DOPŘEDU! 
+
+Vítězství je blíž než si myslíš! 🏆
+
+═══════════════════════════════════════════════════════════════════════════
+
+Otázky? Koukni na:
+  → INDEX.md   (Kde je co)
+  → QUICK_START.md (Nejrychlejší odpovědi)
+
+Jsi Připraven/a? PUSŤ SE DO TOHO! 💪✨
+
+═══════════════════════════════════════════════════════════════════════════
+
+Vytvořeno: 1. listopadu 2025
+Pro: Tvou Přípravu na Maturitu
+Od: GitHub Copilot
+Tvůj Průvodce: Patrik Luks
+
+═══════════════════════════════════════════════════════════════════════════
